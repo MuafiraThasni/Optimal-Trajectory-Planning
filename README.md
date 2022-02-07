@@ -25,7 +25,7 @@ is the Chebyshev polynomial and interpolation nodes are the roots of Chebyshev P
 
 
 
-[documentation]
+Documentation: [Slides](https://github.com/MuafiraThasni/Optimal-Trajectory-Planning/blob/main/viva%20july%2015.pdf), [Report](https://github.com/MuafiraThasni/Optimal-Trajectory-Planning/blob/main/muafirathesisreportjuly7.pdf)
 
 
 
